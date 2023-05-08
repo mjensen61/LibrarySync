@@ -1,2 +1,1 @@
-# LibrarySync
-Synchronize two folders
+# LibrarySync-executable
