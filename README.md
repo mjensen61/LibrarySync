@@ -1,0 +1,2 @@
+# LibrarySync
+Synchronize two folders
