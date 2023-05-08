@@ -117,3 +117,16 @@ C:\Users\mike\Nextcloud\Development\LibrarySync-executable\obj\Debug\LibrarySync
 C:\Users\mike\Nextcloud\Development\LibrarySync-executable\obj\Debug\LibrarySync.csproj.CopyComplete
 C:\Users\mike\Nextcloud\Development\LibrarySync-executable\obj\Debug\LibrarySync.exe
 C:\Users\mike\Nextcloud\Development\LibrarySync-executable\obj\Debug\LibrarySync.pdb
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\bin\Debug\LibrarySync.exe.config
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\bin\Debug\LibrarySync.exe
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\bin\Debug\LibrarySync.pdb
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.csproj.AssemblyReference.cache
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.csproj.SuggestedBindingRedirects.cache
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.MainForm.resources
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.ProgressForm.resources
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.Properties.Resources.resources
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.csproj.GenerateResource.cache
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.csproj.CoreCompileInputs.cache
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.csproj.CopyComplete
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.exe
+C:\Users\mike\Nextcloud\Development\CSharp\LibrarySync\obj\Debug\LibrarySync.pdb
